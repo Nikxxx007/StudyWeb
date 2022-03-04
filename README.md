@@ -1,6 +1,6 @@
 # StudyWeb
 
-In this repository represented some of my web projects
+Some of my web projects are represented in this repository
 
 ## WorldWondersSite
 
